@@ -1,6 +1,7 @@
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
+from drawMatches import drawMatches
 
 nrows = 3
 ncols = 2
